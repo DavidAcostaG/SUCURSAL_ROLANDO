@@ -1,0 +1,115 @@
+#searchbar{
+    color: grey;
+    background-color: white;
+    border-top-color: grey;
+    border-right-color: grey;
+    border-bottom-color: grey;
+    border-left-color: grey;
+}
+#searchbar:hover{
+    background-color: rgb(46, 45, 45);
+}
+#boton2:hover{
+   background-color: rgb(46, 45, 45); 
+}
+#productos{
+    background: url(PINTURA.jpg) no-repeat fixed center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100% ;
+}
+
+#boton2{
+    color: grey;
+    background-color: white;
+    border-top-color: grey;
+    border-right-color: grey;
+    border-bottom-color: grey;
+    border-left-color: grey;
+    margin: 0px 0px 0px 0px;
+}
+#catalogo{
+    background: url(CATALOGO.jpg) no-repeat fixed center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100% ;
+}
+.text{
+    color: white;
+    margin: 20px 0px 20px 170px;	
+    padding: 10px;
+    background: rgba(128, 128, 128, 0.664);
+    display: inline-block;
+    border-radius: 33px 33px 33px 33px;
+    -moz-border-radius: 33px 33px 33px 33px;
+    -webkit-border-radius: 33px 33px 33px 33px;
+    border: 10px solid #fcfcfc;
+}
+#sugerencias{
+    background: url(SUGERENCIAS.jpg) no-repeat fixed center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100% ;
+}
+#mapa{
+    margin: 0px 0px 0px 450px;
+}
+#ubicacion{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    background: url(mapas.jpg) no-repeat fixed center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100% ;
+    
+}
+#titulo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: white;
+    margin: 0px 0px 0px 520px;
+}
+#quejas{
+    background: url(BOTES.jpg) no-repeat fixed center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100% ;
+}
+#textop{
+    color: black;
+    font-size: 30;px;
+    }
+#color{
+    color: black;
+}
+#pareja{
+  margin: 0px 0px 0px 350px;  
+}
+#cat{
+    background: url(BOTES.jpg) no-repeat fixed center;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    width: 100% ;
+    margin: 0px 200px 0px 0px;
+}
+#mapa{
+    margin: 0px 0px 0px 430px;
+}
